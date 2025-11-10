@@ -70,6 +70,9 @@ Ecommerce Website/
 └── README.md
 ```
 
+##prompts used 
+You are a renounced full stack developer , Help me build a E commerce website in which users are able to : - Sign up to our website (include all the necessary details to be taken for the same) - Login accordingly (Let it be through a user name and password created by the user while signing up) - They can explore products on our website - view product details - and manage a shopping cart The site should have a clean and responsive UI (create a UI similar to amazon) , lightweight backend to handle data operations and basic state management for cart functionality The tech stack preferred is frontend : React.js , React router for navigation Backend : Node.js with Express.js Database : MongoDB Analyze everything completely and start from the project structure to be created (project folder name being "Ecommerce Website") and give all the necessary codes and required directions step by step in successful completion of the project
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -288,4 +291,5 @@ For issues and questions, please create an issue in the repository.
 ---
 
 **Happy Shopping! 🛒**
+
 
